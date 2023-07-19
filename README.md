@@ -19,6 +19,6 @@
 &nbsp;
 |  Característica |  Información |
 | :------------: | :------------: |
-| Nombre  |   |
-| Descripción  |   |
-|  Fecha de Carga |   |
+| Nombre  | Practica 7 Saludo en base a la hora  |
+| Descripción  |  La aplicación "Saludo Hora" para Wear OS es una aplicación interactiva que genera saludos personalizados basados en la hora actual.  |
+|  Fecha de Carga | 07/06/23  |
